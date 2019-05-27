@@ -1,4 +1,4 @@
-package Users;
+package OtherProgram.Users;
 
 public class User {
     public Integer id;

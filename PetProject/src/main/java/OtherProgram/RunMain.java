@@ -1,4 +1,6 @@
-import Users.User;
+package OtherProgram;
+
+import OtherProgram.Users.User;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -25,7 +27,7 @@ import java.util.stream.Collectors;
  */
 
 
-public class Main {
+public class RunMain {
     public static void main(String[] args) {
         ArrayList<String> nameList = createNamesList();
         System.out.println(nameList);
